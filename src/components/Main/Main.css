@@ -221,4 +221,8 @@
     .result {
         max-height: 65vh;
     }
+
+    .main .bottom-info {
+        font-size: 10px;
+    }
 }
